@@ -17,4 +17,4 @@ N/A , kami segara membuatnya.
 # Bergabung 
 
 Untuk bergabung dengan komunitas ini setidaknya kalian sudah pernah melakukan sebuah pelaporan bug / celah ke sebuah perusahaan.
-Silahkan ke [#issue 1](https://github.com/BugHunterID/BugHunterID/issues/1) untuk mengisi kalian anda.
+Silahkan ke hubungi : radenvodka1337[at]gmail.com. jangan lupa juga lampirkan link profile github kamu.
